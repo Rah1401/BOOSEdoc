@@ -1,0 +1,273 @@
+{
+  "source_base_path": "C:/Users/Mcr73/source/repos/ase-boose-assignment-Rah1401",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ASE2025repos/ase-boose-assignment-Rah1401/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "ASE2025repos/ase-boose-assignment-Rah1401/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEcode2.BOOSEform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEcode2.BOOSEform.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEcode2.BOOSEform",
+      "Summary": "<p sourcefile=\"api/BOOSEcode2.BOOSEform.yml\" sourcestartlinenumber=\"1\">Main Windows Form for running BOOSE programs.\nAllows the user to type commands, run them,\nand shows the drawing output on the canvas.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEcode2.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEcode2.Form1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEcode2.Form1",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEcode2.MyCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEcode2.MyCanvas.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEcode2.MyCanvas",
+      "Summary": "<p sourcefile=\"api/BOOSEcode2.MyCanvas.yml\" sourcestartlinenumber=\"1\">A simple canvas used by the BOOSE interpreter.\nHandles drawing shapes, lines, colours, text, and cursor movement.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEcode2.MyCircle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEcode2.MyCircle.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEcode2.MyCircle",
+      "Summary": "<p sourcefile=\"api/BOOSEcode2.MyCircle.yml\" sourcestartlinenumber=\"1\">Replacement circle command that uses our canvas\nand does not have the BOOSE radius restriction.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEcode2.MyCommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEcode2.MyCommandFactory.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEcode2.MyCommandFactory",
+      "Summary": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEcode2.MyMoveTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEcode2.MyMoveTo.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEcode2.MyMoveTo",
+      "Summary": "<p sourcefile=\"api/BOOSEcode2.MyMoveTo.yml\" sourcestartlinenumber=\"1\">Custom moveto command that simply forwards to our canvas.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEcode2.MyRect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEcode2.MyRect.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEcode2.MyRect",
+      "Summary": "<p sourcefile=\"api/BOOSEcode2.MyRect.yml\" sourcestartlinenumber=\"1\">Custom rectangle command that draws a rectangle\nusing the application's canvas instead of BOOSE's default one.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEcode2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEcode2.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEcode2",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html"
+        },
+        ".json": {
+          "relative_path": "articles/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "y/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "y/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "y/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "y/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "y/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "y/toc.html"
+        },
+        ".json": {
+          "relative_path": "y/toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
